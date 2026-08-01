@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YashPratap19
 - 👀 I’m interested in algorithms, data analysis, day-trading and UI/UX designing
-- 🌱 I’m currently learning Java and SQL
 - 👨‍🎓 I'm studying @ BITS Goa
 <!---
 YashPratap19/YashPratap19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
